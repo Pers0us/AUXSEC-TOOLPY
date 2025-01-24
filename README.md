@@ -1,7 +1,7 @@
 # AUXSEC-TOOLPY
 
 ## Descripción
-AUXSEC-TOOLPY es una herramienta didáctica diseñada para introducir a los interesados en ciberseguridad al uso de potentes herramientas basadas en CLI (Interfaces de Línea de Comandos).
+AUXSEC-TOOLPY es una herramienta didáctica diseñada para introducir a los interesados en ciberseguridad al uso de hasta 30 potentes herramientas basadas en CLI (Interfaces de Línea de Comandos).
 
 ## Versión
 0.1
