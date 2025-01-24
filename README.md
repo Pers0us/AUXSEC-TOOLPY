@@ -4,13 +4,13 @@
 AUXSEC-TOOLPY es una herramienta didáctica diseñada para introducir a los interesados en ciberseguridad al uso de hasta 30 potentes herramientas basadas en CLI (Interfaces de Línea de Comandos).
 
 ## Versión
-0.1
+1.0
 
 ### Autor
 Pablo Fernández Sosa
 
 ### Fecha
-22-01-2025
+23-01-2025
 
 ### Requisitos
 - Python 3.x
